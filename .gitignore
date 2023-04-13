@@ -1,0 +1,6 @@
+docs/_build/
+docs/content/api/generated/
+docs/content/examples/
+test_package.egg-info/
+
+test_package/__pycache__/
